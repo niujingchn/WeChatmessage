@@ -1,7 +1,7 @@
 {
     "app_id": "wxb3144e20d92e9c24",
     "app_secret": "c99872a30645f57462649bd43043428b",
-    "template_id": "MfbRho2y3dqgapoaG_7sBLa07ZhNRwryQbRRWk8cM_g",
+    "template_id": "HWrL7RENMFzUTkFWg-JqC7duE29igaVixjkkbu0Fcmg",
     "user": ["oTOw16lamh3x4-UbJR--66IVWDAw", "oTOw16mEJfHLPS2XvVgPouNFX0h0"],
     "province": "北京",
     "city": "北京",
