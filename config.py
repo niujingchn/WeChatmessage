@@ -1,9 +1,0 @@
-app_id = "wxb3144e20d92e9c24"
-app_secret = "c99872a30645f57462649bd43043428b"
-template_id = "hwJP9GATNyofWZJyQ3iJZNXNv-6z5ZGnhS4bYh15oP0"
-user = ["oTOw16lamh3x4-UbJR--66IVWDAw",""]
-province = "北京"
-city = "北京"
-birthday1 = "r1996-05-28"
-birthday2 = "r1997-11-04"
-love_date = "2022-03-19"
